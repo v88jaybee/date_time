@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "ninjagold";
+$route['default_controller'] = "time/main";
 $route['404_override'] = '';
 
 
